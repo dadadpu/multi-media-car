@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/ljj.jpg</file>
+        <file>pic/ps天气图标.psd</file>
+        <file>pic/zjl.jpeg</file>
+        <file>pic/暴雨.png</file>
+        <file>pic/大风.png</file>
+        <file>pic/大雾.png</file>
+        <file>pic/大雪.png</file>
+        <file>pic/大雨.png</file>
+        <file>pic/多云.png</file>
+        <file>pic/浮尘.png</file>
+        <file>pic/雷阵雨.png</file>
+        <file>pic/雷阵雨夹冰雹.png</file>
+        <file>pic/晴.png</file>
+        <file>pic/沙尘暴.png</file>
+        <file>pic/台风.png</file>
+        <file>pic/微风.png</file>
+        <file>pic/未定义.png</file>
+        <file>pic/雾.png</file>
+        <file>pic/雾霾.png</file>
+        <file>pic/小雾.png</file>
+        <file>pic/小雪.png</file>
+        <file>pic/小雨.png</file>
+        <file>pic/扬沙.png</file>
+        <file>pic/夜间多云.png</file>
+        <file>pic/夜间晴.png</file>
+        <file>pic/阴.png</file>
+        <file>pic/雨夹雪.png</file>
+        <file>pic/阵雪.png</file>
+        <file>pic/阵雨.png</file>
+        <file>pic/中雾.png</file>
+        <file>pic/中雪.png</file>
+        <file>pic/中雨.png</file>
+        <file>pic/menu.png</file>
+        <file>pic/search.png</file>
+        <file>pic/weather_menu.jpeg</file>
+    </qresource>
+</RCC>

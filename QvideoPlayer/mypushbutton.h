@@ -1,0 +1,29 @@
+#ifndef MYPUSHBUTTON_H
+#define MYPUSHBUTTON_H
+
+#include<QPushButton>
+#include<QPropertyAnimation>
+
+
+class myPushButton : public QPushButton
+{
+    Q_OBJECT
+public:
+    myPushButton(QString normal_path,QString press_path="",int pixwidth=10,int pixheight=10);
+    void zoom1();
+    void zoom2();
+private:
+    QString normal_path;
+    QString press_path;
+    QPropertyAnimation* animation;
+protected:
+    void mousePressEvent(QMouseEvent * e);
+    void mouseReleaseEvent(QMouseEvent * e);
+signals:
+
+public slots:
+};
+
+#endif // MYPUSHBUTTON_H
+
+
